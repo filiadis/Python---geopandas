@@ -1,2 +1,2 @@
 # Python-geopandas
-Shapefile manipulation and preparation 
+GIS procedure automation
